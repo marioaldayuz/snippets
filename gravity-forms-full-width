@@ -1,0 +1,12 @@
+.gform_wrapper
+	form .gform_body .ginput_complex input[type=text] {
+		width:100% !important;
+	}
+	input, input[type=text], select, textarea {
+		width:100% !important;
+	}
+.gform_wrapper .gfield .gravity-select-parent {
+    position: relative;
+    overflow: hidden;
+    width: 100% !important;
+}
